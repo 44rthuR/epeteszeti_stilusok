@@ -4,5 +4,5 @@ Felosztás:
 Kovács Mercédesz: 
 Hegedüs Janka:
 Juhász Arthur:
-Engi Andrea:
+Engi Andrea: Szecessziós építészet
 Nagy Gyula: 
