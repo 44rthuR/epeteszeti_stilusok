@@ -1,8 +1,8 @@
 A feladat egy weblaprendszer elkészítése az építészeti sílusokról 
 
 Felosztás:
-Kovács Mercédesz: 
-Hegedüs Janka:
-Juhász Arthur:
+Kovács Mercédesz: Romantikus építészet
+Hegedüs Janka: Gótikus építészet
+Juhász Arthur: Bauhaus
 Engi Andrea: Szecessziós építészet
-Nagy Gyula: 
+Nagy Gyula: Barokk építészet
